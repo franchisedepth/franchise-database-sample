@@ -1,0 +1,172 @@
+brand_slug,metric,value,rank,peers,peer_median,rank_order,peer_group
+batteries-plus,inv_low,284786,58,72,170207.5,lowest first,Specialty Retail
+batteries-plus,fee_low,15000,11,71,29500,lowest first,Specialty Retail
+batteries-plus,royalty,5,16,61,5,lowest first,Specialty Retail
+batteries-plus,allin,6,18,61,7,lowest first,Specialty Retail
+batteries-plus,outlets,734,3,70,44.0,highest first,Specialty Retail
+batteries-plus,growth,1.7,18,44,-2.95,highest first,Specialty Retail
+batteries-plus,closure,4.2,15,40,5.0,lowest first,Specialty Retail
+baja-fresh,inv_low,428560,18,40,440350.0,lowest first,Mexican
+baja-fresh,fee_low,10000,4,42,35000.0,lowest first,Mexican
+baja-fresh,royalty,5,3,40,5.0,lowest first,Mexican
+baja-fresh,allin,8,25,40,7.0,lowest first,Mexican
+baja-fresh,outlets,68,12,40,22.5,highest first,Mexican
+baja-fresh,growth,-12.8,17,20,-6.75,highest first,Mexican
+baja-fresh,closure,7.6,13,17,6.2,lowest first,Mexican
+liberty-tax-service,inv_low,49700,18,52,59350.0,lowest first,Tax & Financial
+liberty-tax-service,fee_low,25000,17,51,29500,lowest first,Tax & Financial
+liberty-tax-service,royalty,14,22,34,10.0,lowest first,Tax & Financial
+liberty-tax-service,allin,19,26,34,12.0,lowest first,Tax & Financial
+liberty-tax-service,outlets,1663,4,52,78.0,highest first,Tax & Financial
+liberty-tax-service,growth,-11.8,32,38,-1.15,highest first,Tax & Financial
+liberty-tax-service,closure,8.7,24,36,6.15,lowest first,Tax & Financial
+supercuts,inv_low,185930,10,17,184794,lowest first,Hair Salon
+supercuts,fee_low,39500,8,17,39500,lowest first,Hair Salon
+supercuts,royalty,6,4,13,6,lowest first,Hair Salon
+supercuts,allin,11,12,13,8,lowest first,Hair Salon
+supercuts,outlets,1801,2,17,48,highest first,Hair Salon
+supercuts,growth,-13.3,8,11,0.3,highest first,Hair Salon
+supercuts,closure,7.6,8,11,5.8,lowest first,Hair Salon
+take-5-oil-change,inv_low,912248,9,9,235000,lowest first,Oil Change & Quick Lube
+take-5-oil-change,fee_low,45000,8,9,30000,lowest first,Oil Change & Quick Lube
+take-5-oil-change,royalty,7,8,9,6,lowest first,Oil Change & Quick Lube
+take-5-oil-change,allin,12,9,9,8,lowest first,Oil Change & Quick Lube
+take-5-oil-change,outlets,1142,3,9,78,highest first,Oil Change & Quick Lube
+take-5-oil-change,growth,41.5,3,46,-0.35,highest first,Automotive Services
+take-5-oil-change,closure,0.3,5,46,4.25,lowest first,Automotive Services
+ubreakifix-by-asurion,inv_low,171350,8,8,91000.0,lowest first,Device Repair
+ubreakifix-by-asurion,fee_low,25000,3,8,25000.0,lowest first,Device Repair
+ubreakifix-by-asurion,royalty,7,13,29,7,lowest first,Tech Services
+ubreakifix-by-asurion,allin,7,5,29,9,lowest first,Tech Services
+ubreakifix-by-asurion,outlets,677,1,8,52.0,highest first,Device Repair
+ubreakifix-by-asurion,growth,-6.1,15,20,7.7,highest first,Tech Services
+ubreakifix-by-asurion,closure,4.3,9,19,6.3,lowest first,Tech Services
+dogtopia,inv_low,664355,13,17,470000,lowest first,Daycare & Boarding
+dogtopia,fee_low,40095,7,17,49000,lowest first,Daycare & Boarding
+dogtopia,royalty,7,12,17,6,lowest first,Daycare & Boarding
+dogtopia,allin,9,13,17,8,lowest first,Daycare & Boarding
+dogtopia,outlets,266,1,16,12.5,highest first,Daycare & Boarding
+dogtopia,growth,9.0,17,28,12.65,highest first,Pet Services
+dogtopia,closure,0.7,5,27,2.8,lowest first,Pet Services
+hand-and-stone-massage-and-facial-spa,inv_low,320891,5,13,476459,lowest first,Massage & Facial Spa
+hand-and-stone-massage-and-facial-spa,fee_low,49500,9,13,40000,lowest first,Massage & Facial Spa
+hand-and-stone-massage-and-facial-spa,royalty,6,3,13,6,lowest first,Massage & Facial Spa
+hand-and-stone-massage-and-facial-spa,allin,7,3,13,7.75,lowest first,Massage & Facial Spa
+hand-and-stone-massage-and-facial-spa,outlets,615,2,13,64,highest first,Massage & Facial Spa
+hand-and-stone-massage-and-facial-spa,growth,13.5,3,9,5.8,highest first,Massage & Facial Spa
+hand-and-stone-massage-and-facial-spa,closure,0.6,4,9,1.0,lowest first,Massage & Facial Spa
+huntington-learning-centers,inv_low,191992,22,24,98065.0,lowest first,Academic Tutoring
+huntington-learning-centers,fee_low,42000,16,24,32250.0,lowest first,Academic Tutoring
+huntington-learning-centers,royalty,9.5,9,18,9.75,lowest first,Academic Tutoring
+huntington-learning-centers,allin,11.5,11,18,11.0,lowest first,Academic Tutoring
+huntington-learning-centers,outlets,245,5,24,43.5,highest first,Academic Tutoring
+huntington-learning-centers,growth,-12.2,13,16,-7.3,highest first,Academic Tutoring
+huntington-learning-centers,closure,5.8,8,16,6.05,lowest first,Academic Tutoring
+mathnasium,inv_low,127316,18,24,98065.0,lowest first,Academic Tutoring
+mathnasium,fee_low,49000,19,24,32250.0,lowest first,Academic Tutoring
+mathnasium,royalty,10,10,18,9.75,lowest first,Academic Tutoring
+mathnasium,allin,12,12,18,11.0,lowest first,Academic Tutoring
+mathnasium,outlets,1047,2,24,43.5,highest first,Academic Tutoring
+mathnasium,growth,7.7,2,16,-7.3,highest first,Academic Tutoring
+mathnasium,closure,2.1,4,16,6.05,lowest first,Academic Tutoring
+tuffy,inv_low,222000,13,22,203500.0,lowest first,Repair & Maintenance
+tuffy,fee_low,30000,10,23,30000,lowest first,Repair & Maintenance
+tuffy,royalty,5,1,16,6.45,lowest first,Repair & Maintenance
+tuffy,allin,10,11,16,8.0,lowest first,Repair & Maintenance
+tuffy,outlets,129,9,23,62,highest first,Repair & Maintenance
+tuffy,growth,-20.9,14,14,-2.25,highest first,Repair & Maintenance
+tuffy,closure,2.0,5,14,3.4000000000000004,lowest first,Repair & Maintenance
+pet-supplies-plus,inv_low,540520,7,8,273567.5,lowest first,Pet Retail
+pet-supplies-plus,fee_low,49900,5,8,47450.0,lowest first,Pet Retail
+pet-supplies-plus,royalty,3,1,8,5.25,lowest first,Pet Retail
+pet-supplies-plus,allin,6.5,4,8,6.5,lowest first,Pet Retail
+pet-supplies-plus,outlets,735,1,8,64.5,highest first,Pet Retail
+pet-supplies-plus,growth,11.4,15,28,12.65,highest first,Pet Services
+pet-supplies-plus,closure,1.2,8,27,2.8,lowest first,Pet Services
+the-joint,inv_low,245250,6,8,159300.0,lowest first,Chiropractic
+the-joint,fee_low,39900,4,8,39950.0,lowest first,Chiropractic
+the-joint,royalty,7,31,72,7.0,lowest first,Health & Medical
+the-joint,allin,9,39,72,8.0,lowest first,Health & Medical
+the-joint,outlets,970,1,8,71.0,highest first,Chiropractic
+the-joint,growth,15.8,16,35,11.4,highest first,Health & Medical
+the-joint,closure,1.6,7,33,5.6,lowest first,Health & Medical
+applebee-s-neighborhood-grill-bar,inv_low,3192516,62,67,729000,lowest first,Casual Dining
+applebee-s-neighborhood-grill-bar,fee_low,35000,21,67,39500,lowest first,Casual Dining
+applebee-s-neighborhood-grill-bar,royalty,4,5,67,5,lowest first,Casual Dining
+applebee-s-neighborhood-grill-bar,allin,8.25,56,67,7,lowest first,Casual Dining
+applebee-s-neighborhood-grill-bar,outlets,1475,1,67,34,highest first,Casual Dining
+applebee-s-neighborhood-grill-bar,growth,-4.3,25,35,-2.2,highest first,Casual Dining
+applebee-s-neighborhood-grill-bar,closure,2.5,7,28,4.25,lowest first,Casual Dining
+vio-med-spa,inv_low,642722,71,80,192237.5,lowest first,Health & Medical
+vio-med-spa,fee_low,50000,48,73,40000,lowest first,Health & Medical
+vio-med-spa,royalty,6,15,72,7.0,lowest first,Health & Medical
+vio-med-spa,allin,7.5,22,72,8.0,lowest first,Health & Medical
+vio-med-spa,outlets,64,30,76,30.0,highest first,Health & Medical
+vio-med-spa,growth,88.2,3,35,11.4,highest first,Health & Medical
+vio-med-spa,closure,3.1,11,33,5.6,lowest first,Health & Medical
+ar-homes,inv_low,535000,54,55,56465,lowest first,Real Estate
+ar-homes,fee_low,65000,52,55,25000,lowest first,Real Estate
+ar-homes,royalty,3.5,5,35,5.5,lowest first,Real Estate
+ar-homes,allin,3.75,6,35,6,lowest first,Real Estate
+ar-homes,outlets,42,38,53,105,highest first,Real Estate
+ar-homes,growth,0.0,14,40,-6.5,highest first,Real Estate
+ar-homes,closure,8.2,18,40,8.55,lowest first,Real Estate
+bella-bridesmaids,inv_low,102900,16,72,170207.5,lowest first,Specialty Retail
+bella-bridesmaids,fee_low,50000,66,71,29500,lowest first,Specialty Retail
+bella-bridesmaids,royalty,4,10,61,5,lowest first,Specialty Retail
+bella-bridesmaids,allin,4,2,61,7,lowest first,Specialty Retail
+bella-bridesmaids,outlets,45,35,70,44.0,highest first,Specialty Retail
+bella-bridesmaids,growth,-22.4,41,44,-2.95,highest first,Specialty Retail
+bella-bridesmaids,closure,7.7,28,40,5.0,lowest first,Specialty Retail
+gymguyz,inv_low,92100,7,52,253425.0,lowest first,Boutique Group Fitness
+gymguyz,fee_low,49500,38,53,40000,lowest first,Boutique Group Fitness
+gymguyz,royalty,7,24,50,7.0,lowest first,Boutique Group Fitness
+gymguyz,allin,9,27,50,8.5,lowest first,Boutique Group Fitness
+gymguyz,outlets,132,11,53,30,highest first,Boutique Group Fitness
+gymguyz,growth,33.3,3,23,-10.5,highest first,Boutique Group Fitness
+gymguyz,closure,11.6,14,23,11.1,lowest first,Boutique Group Fitness
+a-better-solution-in-home-care,inv_low,126890,52,68,102827.0,lowest first,Senior Care
+a-better-solution-in-home-care,fee_low,55000,53,68,49500.0,lowest first,Senior Care
+a-better-solution-in-home-care,royalty,5,4,65,5,lowest first,Senior Care
+a-better-solution-in-home-care,allin,6,6,65,7,lowest first,Senior Care
+a-better-solution-in-home-care,outlets,30,32,68,25.5,highest first,Senior Care
+a-better-solution-in-home-care,growth,11.1,20,32,16.9,highest first,Senior Care
+a-better-solution-in-home-care,closure,8.9,28,32,3.95,lowest first,Senior Care
+complete-weddings-events,inv_low,68800,7,72,266500.0,lowest first,Entertainment & Recreation
+complete-weddings-events,fee_low,15000,3,69,40000,lowest first,Entertainment & Recreation
+complete-weddings-events,royalty,8,56,67,6,lowest first,Entertainment & Recreation
+complete-weddings-events,allin,10,56,67,8,lowest first,Entertainment & Recreation
+complete-weddings-events,outlets,82,10,67,15,highest first,Entertainment & Recreation
+complete-weddings-events,growth,18.8,10,27,10.6,highest first,Entertainment & Recreation
+complete-weddings-events,closure,3.8,10,21,4.8,lowest first,Entertainment & Recreation
+decorate-with-lights,inv_low,36200,4,62,99902.5,lowest first,Outdoor
+decorate-with-lights,fee_low,10000,4,62,40000.0,lowest first,Outdoor
+decorate-with-lights,royalty,8,34,54,7.0,lowest first,Outdoor
+decorate-with-lights,allin,10,33,54,9.0,lowest first,Outdoor
+decorate-with-lights,outlets,128,19,60,60.0,highest first,Outdoor
+decorate-with-lights,growth,8.5,15,39,4.6,highest first,Outdoor
+decorate-with-lights,closure,6.9,25,40,5.3,lowest first,Outdoor
+era-group,inv_low,76000,35,70,78025.0,lowest first,B2B Supplies
+era-group,fee_low,64900,61,65,35900,lowest first,B2B Supplies
+era-group,royalty,15,41,47,7,lowest first,B2B Supplies
+era-group,allin,18,44,47,7.5,lowest first,B2B Supplies
+era-group,outlets,196,14,68,41.5,highest first,B2B Supplies
+era-group,growth,34.2,3,44,0.0,highest first,B2B Supplies
+era-group,closure,7.7,23,40,6.55,lowest first,B2B Supplies
+cd-one-price-cleaners,inv_low,903225,8,12,647224.0,lowest first,Dry Cleaning
+cd-one-price-cleaners,fee_low,6000,1,11,20000,lowest first,Dry Cleaning
+cd-one-price-cleaners,royalty,6.5,11,12,6.0,lowest first,Dry Cleaning
+cd-one-price-cleaners,allin,9.5,10,12,7.5,lowest first,Dry Cleaning
+cd-one-price-cleaners,outlets,40,4,11,13,highest first,Dry Cleaning
+discovery-map,inv_low,29250,18,70,78025.0,lowest first,B2B Supplies
+discovery-map,fee_low,25000,24,65,35900,lowest first,B2B Supplies
+discovery-map,royalty,10,36,47,7,lowest first,B2B Supplies
+discovery-map,allin,11,38,47,7.5,lowest first,B2B Supplies
+discovery-map,outlets,116,21,68,41.5,highest first,B2B Supplies
+discovery-map,growth,-1.7,26,44,0.0,highest first,B2B Supplies
+discovery-map,closure,4.1,13,40,6.55,lowest first,B2B Supplies
+atc-healthcare-services,inv_low,158500,28,30,77791.5,lowest first,Staffing & Employment
+atc-healthcare-services,fee_low,30000,10,29,37500,lowest first,Staffing & Employment
+atc-healthcare-services,outlets,34,15,30,33.0,highest first,Staffing & Employment
+atc-healthcare-services,growth,-47.7,15,15,-4.9,highest first,Staffing & Employment
+atc-healthcare-services,closure,22.6,13,13,10.2,lowest first,Staffing & Employment
