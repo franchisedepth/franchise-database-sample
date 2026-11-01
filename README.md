@@ -4,7 +4,7 @@ Fees, Item 19 earnings, closure rates, growth, outlets by state and agreement te
 
 **Full database:** 2,485 brands, with 13,225 Item 19 figures, closure rates for 1,865 brands and outlet growth for 2,265. Available at [franchisedepth.gumroad.com](https://franchisedepth.gumroad.com/l/franchise-database), along with single-industry packs (food, home services, fitness).
 
-Compiled 2026-11-01. FDD year of the latest filing per brand: 15 from 2026, 7 from 2025, 3 from 2024.
+Also on [Hugging Face](https://huggingface.co/datasets/FranchiseDepth/franchise-database-sample) (with a table viewer) and [Kaggle](https://www.kaggle.com/datasets/franchisedepth/franchisedepth-franchise-database-free-sample). Compiled 2026-11-01. FDD year of the latest filing per brand: 15 from 2026, 7 from 2025, 3 from 2024.
 
 ## Quick start
 
