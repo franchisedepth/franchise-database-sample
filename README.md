@@ -1,5 +1,7 @@
 # FranchiseDepth Franchise Database: free sample
 
+> **This is a free 25-brand sample.** The [full database](https://franchisedepth.gumroad.com/l/franchise-database) has the same tables and format for **2,485 US franchise brands**. Single-industry packs (food, home services, fitness) are [here](https://franchisedepth.gumroad.com/l/franchise-industry-pack).
+
 Fees, Item 19 earnings, closure rates, growth, outlets by state and agreement terms for 25 US franchise brands, parsed from each brand's Franchise Disclosure Document (FDD) as filed with a US state. It is in exactly the same format as the full database, so you can test your queries, notebooks or AI workflows before scaling up.
 
 **Full database:** 2,485 brands, with 13,225 Item 19 figures, closure rates for 1,865 brands and outlet growth for 2,265. Available at [franchisedepth.gumroad.com](https://franchisedepth.gumroad.com/l/franchise-database), along with single-industry packs (food, home services, fitness).
